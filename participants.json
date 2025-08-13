@@ -14,7 +14,7 @@
     }
   },
   "days_between_hfc_hfe": {
-    "Description": "Interval between participants' first scan session (GE, HFC) and second scan session (HFE)",
+    "Description": "Interval between participants' first scan visit (session: ses-GE, ses-HFC) and second scan visit (session: ses-HFE)",
     "Units": "days"
   }
 }
